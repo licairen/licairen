@@ -10,7 +10,7 @@
 
 ## 今年汇总 ✨
 
-<!--![trophy](https://github-profile-trophy.vercel.app/?username=licairen&theme=tokyonight)-->
+![trophy](https://github-profile-trophy.vercel.app/?username=licairen&theme=tokyonight2)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=licairen&show_icons=true&theme=transparent)
 
