@@ -14,9 +14,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=licairen&show_icons=true&theme=transparent)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licairen&layout=compact&theme=tokyonight)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licairen&layout=compact&theme=tokyonight)
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licairen&layout=compact&theme=radical) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=licairen&layout=compact&theme=radical) 
 
 
